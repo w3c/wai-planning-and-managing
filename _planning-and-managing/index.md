@@ -3,6 +3,7 @@ title: "Planning and Managing Web Accessibility"
 nav_title: Overview
 permalink: /planning-and-managing/
 order: 0
+inline_css: ".teaser-h-icon { fill: #036; }"
 footer: >
   <p>
                 <strong>Status:</strong>
