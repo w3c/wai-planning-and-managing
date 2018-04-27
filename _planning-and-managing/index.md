@@ -5,24 +5,9 @@ permalink: /planning-and-managing/
 order: 0
 inline_css: ".teaser-h-icon { fill: #036; }"
 footer: >
-  <p>
-                <strong>Status:</strong>
-            Updated
-          31 March 2016
-          (first published October 2002)
-        <br>
-            <strong>Editors:</strong>
-  <a href="https://www.w3.org/People/#kevin">Kevin White</a>,
-  <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, and
-  <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>.
-
-  <a href="./acknowledgements/">Acknowledgements</a> includes notes on past iterations.
-
-  Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a>.
-
-  Developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.
-
-  </p>
+  <p><strong>Date:</strong> Updated 31 March 2016. First published October 2002.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/kevin">Kevin White</a>, <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, and <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/beta/planning-and-managing/acknowledgements/">Acknowledgements</a> includes information on previous versions and editors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV Project</a> and the <a href="https://www.w3.org/WAI/ACT/">WAI-ACT Project</a>, co-funded by the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 ---
 
 This guide outlines activities to help you integrate accessibility
