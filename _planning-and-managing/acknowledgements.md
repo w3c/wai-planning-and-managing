@@ -3,7 +3,7 @@ title: "Acknowledgements"
 order: 5
 nosidenav: true
 footer: >
-  <p><strong>Status:</strong> Updated 31 March 2016 (first published February 2016)</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV Project</a> and the <a href="https://www.w3.org/WAI/ACT/">WAI-ACT Project</a>, co-funded by the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 ---
 
 [Planning and Managing Web Accessibility](..) is developed by
