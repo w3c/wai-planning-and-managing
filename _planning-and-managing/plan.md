@@ -3,7 +3,7 @@ title: "Plan"
 order: 2
 title_icon: /planning-and-managing/img/icons.svg#plan
 github:
-  repository: wai-planning-and-managing
+  repository: w3c/wai-planning-and-managing
 footer: >
   <p><strong>Date:</strong> Updated 31 March 2016. First published October 2002.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/kevin">Kevin White</a>, <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, and <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/beta/planning-and-managing/acknowledgements/">Acknowledgements</a> includes information on previous versions and editors.</p>
