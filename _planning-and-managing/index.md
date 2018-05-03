@@ -22,7 +22,7 @@ A companion document, [Web Accessibility First Aid: Approaches for
 Interim Repairs](/pages/interim-repairs.md), provides guidance on more
 immediate remediation of accessibility barriers in existing websites.
 
-<div class="grid-4q nogap teaser">
+<div class="grid-4q nogap teaser" style="padding:0">
   <div class="q1-start q2-end area-teaser">
     <header class="teaser-h">
       <h2 class="title">
@@ -61,6 +61,9 @@ immediate remediation of accessibility barriers in existing websites.
       <li><a href="{{ "/planning-and-managing/plan/" | relative_url }}#engage-with-stakeholders">Engage with stakeholders</a></li>
     </ul>
   </div>
+</div>
+
+<div class="grid-4q nogap teaser" style="padding:0">
   <div class="q1-start q2-end area-teaser">
     <header class="teaser-h">
       <h2 class="title">
