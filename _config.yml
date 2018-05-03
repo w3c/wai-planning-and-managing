@@ -42,7 +42,7 @@ collections:
     area: "Plan and Manage"
     name: "Planning and Managing"
     # icon: "book" # TODO
-    repostitory: w3c/wai-dynamic-planning
+    repository: w3c/wai-planning-and-managing
     output: true
     acknowledgements: false
     permalink: /:collection/:path/
