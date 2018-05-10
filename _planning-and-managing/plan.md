@@ -40,7 +40,7 @@ available and activities are prioritized.
 ### For more information
 
 -   [Developing Organizational Policies on Web
-    Accessibility]({% link _planning-and-managing/implement.md %}) – Provides information on what needs
+    Accessibility]({{ "/planning-and-managing/implement/" | relative_url }}) – Provides information on what needs
     to be considered when creating your policy.
 
 {% include excol.html type="end" %}
@@ -124,8 +124,7 @@ statistics, or improved corporate social responsibility.
 
 ### Related activities
 
--   Initiate: [Develop business
-    case]({% link _planning-and-managing/initiate.md %}#develop-business-case)
+-   Initiate: [Develop business case]({{ "/planning-and-managing/initiate/" | relative_url }}#develop-business-case)
 
 ### For more information
 
@@ -181,7 +180,7 @@ accessibility objectives much more effectively.
     which evaluation tools to use to help.
 -   [Web Accessibility Evaluation Tools List](/WAI/ER/tools/) – List of
     vendor provided tools that help support accessibility evaluations.
--   [ATAG Overview]({{ "/standards/atag/" | relative_url }}) – Provides information on
+-   [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }}) – Provides information on
     Authoring Tools Accessibility Guidelines (ATAG), how it is
     structured, and how best to use it.
 
@@ -218,13 +217,10 @@ skills and experience needed to undertake a thorough review.
 
 ### For more information
 
--   [WCAG-EM Overview]({{ "/test-eval/conformance-evaluations/" | relative_url }}) – Introduces a methodology
-    for determining how well a website conforms to WCAG 2.0.
+-   [WCAG-EM Overview]({{ "/test-evaluate/conformance/" | relative_url }}) – Introduces a methodology for determining how well a website conforms to WCAG 2.0.
 -   [Assess the Situation](/WAI/impl/improving#assess) – Describes how
     you might approach evaluating your website.
--   [Involving Users in Web Projects for Better, Easier
-    Accessibility](/WAI/users/involving) – Describes the benefits of
-    involving users in projects and how to go about it.
+-   [Involving Users in Web Projects for Better, Easier Accessibility](/WAI/users/involving) – Describes the benefits of involving users in projects and how to go about it.
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" id="" %}
@@ -268,8 +264,8 @@ the checks and there are clear escalation paths for identified issues.
 
 ### Related activities
 
--   Initiate: [Set objectives]({% link _planning-and-managing/initiate.md %}#set-objectives)
--   Implement: [Evaluate early and regularly](implement.html#evaluate-early-and-regularly)
+-   Initiate: [Set objectives]({{ "/planning-and-managing/initiate/" | relative_url }}#set-objectives)
+-   Implement: [Evaluate early and regularly]({{ "/planning-and-managing/implement/" | relative_url }}#evaluate-early-and-regularly)
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" id="" %}

@@ -19,7 +19,7 @@ necessarily carried out in sequence, and are ideally repeated over time
 to continually raise the level of accessibility capability.
 
 A companion document, [Web Accessibility First Aid: Approaches for
-Interim Repairs](/pages/interim-repairs.md), provides guidance on more
+Interim Repairs]({{ "/plan/interim-repairs/" | relative_url }}), provides guidance on more
 immediate remediation of accessibility barriers in existing websites.
 
 <div class="grid-4q nogap teaser" style="padding:0">

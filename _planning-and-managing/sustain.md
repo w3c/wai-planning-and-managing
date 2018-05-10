@@ -55,8 +55,7 @@ issues occurring.
 
 ### Related activities
 
--   Plan: [Establish monitoring
-    framework]({% link _planning-and-managing/plan.md %}#establish-monitoring-framework)
+-   Plan: [Establish monitoring framework]({{ "/planning-and-managing/plan/" | relative_url }}#establish-monitoring-framework)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -94,7 +93,7 @@ Examples include:
 
 ### Related activities
 
--   Initiate: [Gather support]({% link _planning-and-managing/initiate.md %}#gather-support)
+-   Initiate: [Gather support]({{ "/planning-and-managing/initiate/" | relative_url }}#gather-support)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 

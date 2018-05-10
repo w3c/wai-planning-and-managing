@@ -54,18 +54,14 @@ user experiences, particularly on mobile devices.
 
 ### Related activities
 
--   Implement: [Build skills and
-    expertise](implement.html#build-skills-and-expertise)
+-   Implement: [Build skills and expertise]({{ "/planning-and-managing/implement/#build-skills-and-expertise" | relative_url }})
 
 ### For more information
 
--   [Accessibility - W3C](/standards/webdesign/accessibility) – A short
+-   [Accessibility - W3C](https://www.w3.org/standards/webdesign/accessibility) – A short
     introduction to Web accessibility.
--   [Introduction to Web Accessibility](/WAI/intro/accessibility.php) –
-    WAI introduces Web accessibility and links to additional resources.
--   [How People with Disabilities Use the
-    Web](/WAI/intro/people-use-web) – Explores the impact of accessible
-    design with real-life examples.
+-   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }}) – WAI introduces Web accessibility and links to additional resources.
+-   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url}}) – Explores the impact of accessible design with real-life examples.
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
@@ -98,14 +94,12 @@ addressed.
 
 ### Related activities
 
--   Plan: [Review websites]({% link _planning-and-managing/plan.md %}#review-websites)
--   Plan: [Review environment]({% link _planning-and-managing/plan.md %}#review-environment)
+-   Plan: [Review websites]({{ "/planning-and-managing/plan/" | relative_url }}#review-websites)
+-   Plan: [Review environment]({{ "/planning-and-managing/plan/" | relative_url }}#review-environment)
 
 ### For more information
 
--   [Easy Checks - A First Review of Web
-    Accessibility]({{ "/test-eval/easychecks/" | relative_url }}) – Provides simple steps
-    to help assess if a web page addresses accessibility.
+-   [Easy Checks - A First Review of Web Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) – Provides simple steps to help assess if a web page addresses accessibility.
 
 {% include excol.html type="end" %}
 {% include excol.html type="start" %}
@@ -181,7 +175,7 @@ investment.
     accessibility.
 -   [Mobile Accessibility](/WAI/mobile/Overview) – Summarizes existing
     and developing resources related to mobile accessibility.
--   [Web Accessibility and Older People](/WAI/older-users/Overview.php)
+-   [Web Accessibility and Older People]({{ "/older-users/" | relative_url }})
     – Introduces how the accessibility needs of older people with
     age-related impairments overlap with the accessibility needs of
     people with disabilities.
@@ -220,7 +214,7 @@ departmental events to talk about accessibility.
 ### For more information
 
 -   [Developing Web Accessibility Presentations and
-    Training](/WAI/training/Overview.html) – Provides help on developing
+    Training]({{ "/teach-advocate/accessibility-training/" | relative_url }}) – Provides help on developing
     training on web accessibility.
 
 {% include excol.html type="end" %}
@@ -255,9 +249,7 @@ staff meetings or feedback sessions.
 
 ### For more information
 
--   [How people with disabilities use the
-    web](/WAI/intro/people-use-web/Overview.html) – Explores the impact
-    of accessible design with real-life examples.
+-   [How people with disabilities use the web]({{ "/people-use-web/" | relative_url }}) – Explores the impact of accessible design with real-life examples.
 
 {% include excol.html type="end" %}
 {% include excol.html type="all" %}

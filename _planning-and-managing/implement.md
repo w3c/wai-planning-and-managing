@@ -103,7 +103,7 @@ employment policies, workspace accommodation, and customer care.
 ### Related activities
 
 -   Plan: [Create accessibility
-    policy]({% link _planning-and-managing/plan.md %}#create-accessibility-policy)
+    policy]({{ "/planning-and-managing/plan/" | relative_url }}#create-accessibility-policy)
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -139,8 +139,8 @@ departments.
 ### Related activities
 
 -   Plan: [Assign
-    responsibilities]({% link _planning-and-managing/plan.md %}#assign-responsibilities)
--   Plan: [Review websites]({% link _planning-and-managing/plan.md %}#review-websites)
+    responsibilities]({{ "/planning-and-managing/plan/" | relative_url }}#assign-responsibilities)
+-   Plan: [Review websites]({{ "/planning-and-managing/plan/" | relative_url }}#review-websites)
 
 ### For more information
 
@@ -188,14 +188,14 @@ standard quality assurance cycle.
 ### Related activities
 
 -   Plan: [Establish monitoring
-    framework]({% link _planning-and-managing/plan.md %}#establish-monitoring-framework)
+    framework]({{ "/planning-and-managing/plan/" | relative_url }}#establish-monitoring-framework)
 
 ### For more information
 
 -   [Easy Checks - A First Review of Web
-    Accessibility]({{ "/test-eval/easychecks/" | relative_url }}) – Provides simple steps
+    Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) – Provides simple steps
     to help assess if a web page addresses accessibility.
--   [WCAG-EM Overview]({{ "/test-eval/conformance-evaluation/" | relative_url }}) – Introduces a methodology
+-   [WCAG-EM Overview]({{ "/test-evaluate/conformance-evaluation/" | relative_url }}) – Introduces a methodology
     for determining how well a website conforms to WCAG 2.0.
 -   [Involving Users with Disabilities](/WAI/users/involving) –
     Describes how to involve users to help better understand
@@ -277,9 +277,9 @@ Possible communication opportunities include:
 
 ### Related activities
 
--   Initiate: [Set objectives]({% link _planning-and-managing/initiate.md %}#set-objectives)
+-   Initiate: [Set objectives]({{ "/planning-and-managing/initiate/" | relative_url }}#set-objectives)
 -   Plan: [Establish monitoring
-    framework]({% link _planning-and-managing/plan.md %}#establish-monitoring-framework)
+    framework]({{ "/planning-and-managing/plan/" | relative_url }}#establish-monitoring-framework)
 
 {% include excol.html type="end" %}
 {% include excol.html type="all" %}
