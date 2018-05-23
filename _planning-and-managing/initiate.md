@@ -58,9 +58,7 @@ user experiences, particularly on mobile devices.
 
 ### For more information
 
--   [Accessibility - W3C](https://www.w3.org/standards/webdesign/accessibility) – A short
-    introduction to Web accessibility.
--   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }}) – WAI introduces Web accessibility and links to additional resources.
+-   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }}) – Introduces web accessibility and links to additional resources.
 -   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url}}) – Explores the impact of accessible design with real-life examples.
 
 {% include excol.html type="end" %}
