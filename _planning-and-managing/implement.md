@@ -5,7 +5,7 @@ title_icon: /planning-and-managing/img/icons.svg#implement
 github:
   repository: w3c/wai-planning-and-managing
 footer: >
-  <p><strong>Date:</strong> Updated 31 March 2016. First published October 2002.</p>
+  <p><strong>Date:</strong> Minor updates 24 May 2018. Updated 31 March 2016. First published October 2002.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/kevin">Kevin White</a>, <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, and <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/beta/planning-and-managing/acknowledgements/">Acknowledgements</a> includes information on previous versions and editors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV Project</a> and the <a href="https://www.w3.org/WAI/ACT/">WAI-ACT Project</a>, co-funded by the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 ---
