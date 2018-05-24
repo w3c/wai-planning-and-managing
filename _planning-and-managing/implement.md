@@ -59,7 +59,7 @@ helping to reduce evaluation and rework costs and limit risk.
     some basic considerations for making your website more accessible to
     people with disabilities.
 -   [Web Accessibility Tutorials](/WAI/tutorials/) – Provides guidance
-    on how to create specific components of websites to meet WCAG 2.0.
+    on how to create specific components of websites to meet WCAG 2.
 -   [Before and After Demo](/WAI/demos/bad/) – Shows an inaccessible
     website and a retrofitted version of the same website with
     annotations.
@@ -151,8 +151,8 @@ departments.
     accessibility issues.
 -   [WCAG Overview](/WAI/intro/wcag.php) – Provides information on WCAG,
     how it is structured, and how best to use it.
--   [How to Meet WCAG 2.0](/WAI/WCAG20/quickref/) – A customizable quick
-    reference to WCAG 2.0.
+-   [How to Meet WCAG 2 (Quick Reference)](/WAI/WCAG20/quickref/) – A customizable quick
+    reference to WCAG 2.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -196,7 +196,7 @@ standard quality assurance cycle.
     Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) – Provides simple steps
     to help assess if a web page addresses accessibility.
 -   [WCAG-EM Overview]({{ "/test-evaluate/conformance-evaluation/" | relative_url }}) – Introduces a methodology
-    for determining how well a website conforms to WCAG 2.0.
+    for determining how well a website conforms to WCAG 2.
 -   [Involving Users with Disabilities](/WAI/users/involving) –
     Describes how to involve users to help better understand
     accessibility issues.
