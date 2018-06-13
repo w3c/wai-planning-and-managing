@@ -18,10 +18,6 @@ projects and on an organizational level. These activities are not
 necessarily carried out in sequence, and are ideally repeated over time
 to continually raise the level of accessibility capability.
 
-A companion document, [Web Accessibility First Aid: Approaches for
-Interim Repairs]({{ "/planning/interim-repairs/" | relative_url }}), provides guidance on more
-immediate remediation of accessibility barriers in existing websites.
-
 <div class="grid-4q nogap teaser" style="padding:0">
   <div class="q1-start q2-end area-teaser">
     <header class="teaser-h">
