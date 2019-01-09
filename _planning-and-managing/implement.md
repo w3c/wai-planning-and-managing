@@ -5,7 +5,7 @@ title_icon: /planning-and-managing/img/icons.svg#implement
 github:
   repository: w3c/wai-planning-and-managing
 footer: >
-  <p><strong>Date:</strong> Minor updates 24 May 2018. Updated 31 March 2016. First published October 2002.</p>
+  <p><strong>Date:</strong> Updated 9 January 2018. First published October 2002.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/kevin">Kevin White</a>, <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>, and <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/beta/planning-and-managing/acknowledgements/">Acknowledgements</a> includes information on previous versions and editors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV Project</a> and the <a href="https://www.w3.org/WAI/ACT/">WAI-ACT Project</a>, co-funded by the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme.</p>
 ---
@@ -59,7 +59,7 @@ helping to reduce evaluation and rework costs and limit risk.
     some basic considerations for making your website more accessible to
     people with disabilities.
 -   [Web Accessibility Tutorials](/WAI/tutorials/) – Provides guidance
-    on how to create specific components of websites to meet WCAG 2.
+    on how to create specific components of websites to meet WCAG.
 -   [Before and After Demo](/WAI/demos/bad/) – Shows an inaccessible
     website and a retrofitted version of the same website with
     annotations.
@@ -151,8 +151,8 @@ departments.
     accessibility issues.
 -   [WCAG Overview](/WAI/intro/wcag.php) – Provides information on WCAG,
     how it is structured, and how best to use it.
--   [How to Meet WCAG 2 (Quick Reference)](/WAI/WCAG20/quickref/) – A customizable quick
-    reference to WCAG 2.
+-   [How to Meet WCAG (Quick Reference)](/WAI/WCAG20/quickref/) – A customizable quick
+    reference to WCAG.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -196,7 +196,7 @@ standard quality assurance cycle.
     Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}) – Provides simple steps
     to help assess if a web page addresses accessibility.
 -   [WCAG-EM Overview]({{ "/test-evaluate/conformance-evaluation/" | relative_url }}) – Introduces a methodology
-    for determining how well a website conforms to WCAG 2.
+    for determining how well a website conforms to WCAG.
 -   [Involving Users with Disabilities](/WAI/users/involving) –
     Describes how to involve users to help better understand
     accessibility issues.
