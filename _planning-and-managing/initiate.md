@@ -168,7 +168,7 @@ investment.
 
 ### For more information
 
--   [Developing a Web Accessibility Business Case](/WAI/bcase/Overview)
+-   [Developing a Digital Accessibility Business Case](/WAI/bcase/Overview)
     – Explores factors important in developing a business case for
     accessibility.
 -   [Mobile Accessibility](/WAI/mobile/Overview) – Summarizes existing
