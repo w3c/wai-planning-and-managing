@@ -40,7 +40,7 @@ available and activities are prioritized.
 ### For more information
 
 -   [Developing Organizational Policies on Web
-    Accessibility]({{ "/planning-and-managing/implement/" | relative_url }}) – Provides information on what needs
+    Accessibility](https://www.w3.org/WAI/planning/org-policies/) – Provides information on what needs
     to be considered when creating your policy.
 
 {% include excol.html type="end" %}
