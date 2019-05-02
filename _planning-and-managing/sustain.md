@@ -165,7 +165,7 @@ but should also be considered. This includes new consumer devices
 intended to access the Web as well as new assistive technologies.
 Explore new technology as it becomes commonly available and consider
 what changes might be necessary to support accessibility. For assistive
-technologies, consider working with advocacy organisations to identify
+technologies, consider working with advocacy organizations to identify
 new technologies and what changes may be necessary to support them.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
