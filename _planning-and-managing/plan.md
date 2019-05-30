@@ -93,7 +93,7 @@ audits, and testing with users.
 
 Your budget and resource needs depend on your accessibility goals and
 the extent of the work required to achieve them. For all activities
-consider what resources will be required and ensure that that they are
+consider what resources will be required and ensure that they are
 available. Some things that need to be considered include:
 
 -   **Accessibility evaluations** – Consider how frequently they need to
