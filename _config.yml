@@ -52,7 +52,7 @@ defaults:
     scope:
       path: "_planning-and-managing"
     values:
-      layout: "default"
+      layout: "sidenav"
 
 plugins:
   - jekyll-seo-tag
